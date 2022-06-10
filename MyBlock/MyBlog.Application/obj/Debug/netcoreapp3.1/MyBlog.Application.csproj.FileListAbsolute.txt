@@ -1,0 +1,10 @@
+E:\Vue proj\MyBlock\MyBlog.Application\bin\Debug\netcoreapp3.1\MyBlog.Application.deps.json
+E:\Vue proj\MyBlock\MyBlog.Application\bin\Debug\netcoreapp3.1\MyBlog.Application.dll
+E:\Vue proj\MyBlock\MyBlog.Application\bin\Debug\netcoreapp3.1\MyBlog.Application.pdb
+E:\Vue proj\MyBlock\MyBlog.Application\obj\Debug\netcoreapp3.1\MyBlog.Application.csproj.AssemblyReference.cache
+E:\Vue proj\MyBlock\MyBlog.Application\obj\Debug\netcoreapp3.1\MyBlog.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vue proj\MyBlock\MyBlog.Application\obj\Debug\netcoreapp3.1\MyBlog.Application.AssemblyInfoInputs.cache
+E:\Vue proj\MyBlock\MyBlog.Application\obj\Debug\netcoreapp3.1\MyBlog.Application.AssemblyInfo.cs
+E:\Vue proj\MyBlock\MyBlog.Application\obj\Debug\netcoreapp3.1\MyBlog.Application.csproj.CoreCompileInputs.cache
+E:\Vue proj\MyBlock\MyBlog.Application\obj\Debug\netcoreapp3.1\MyBlog.Application.dll
+E:\Vue proj\MyBlock\MyBlog.Application\obj\Debug\netcoreapp3.1\MyBlog.Application.pdb

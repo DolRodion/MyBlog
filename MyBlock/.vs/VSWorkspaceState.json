@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyBlock\\Controllers",
+    "\\MyBlog.Application",
+    "\\MyBlog.Application\\Interfaces",
+    "\\MyBlog.Application\\Params",
+    "\\MyBlog.Application\\Services",
+    "\\MyBlog.DataAccess",
+    "\\MyBlog.DataAccess\\Entities"
+  ],
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fb407855-05b4-431b-adca-c1da80478e3c": {
+      "ProjectGuid": "fb407855-05b4-431b-adca-c1da80478e3c",
+      "DisplayName": "MyBlog.WebApi",
+      "ColorIndex": 0
+    },
+    "e95b4a2c-e71f-4453-94e4-364f8dcc025f": {
+      "ProjectGuid": "e95b4a2c-e71f-4453-94e4-364f8dcc025f",
+      "DisplayName": "MyBlog.Application",
+      "ColorIndex": 1
+    },
+    "8832356f-a6f6-4f6f-ace3-60b6234c06e0": {
+      "ProjectGuid": "8832356f-a6f6-4f6f-ace3-60b6234c06e0",
+      "DisplayName": "MyBlog.DataAccess",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
